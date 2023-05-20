@@ -1,0 +1,7 @@
+query Languages{
+    languages {
+        id,
+        title,
+        shortCode
+    }
+}

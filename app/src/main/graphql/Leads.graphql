@@ -1,0 +1,33 @@
+query Leads {
+    fetchLeads {
+        data {
+            adSource{
+                title
+            },
+            channelSource {
+                title
+            }
+            avatar {
+                path,
+                thumbnail,
+            }
+            id,
+            personId,
+            displayName,
+            status {
+                title
+            },
+            source {
+                title
+            },
+            createdAt,
+            intention {
+                title
+            }
+            updatedAt,
+            country {
+                emoji,
+            }
+        }
+    }
+}

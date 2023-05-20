@@ -1,0 +1,16 @@
+query Nationalities{
+    nationalities {
+        id,
+        country {
+            id,
+            title,
+            emoji,
+            adWordsCode,
+            shortCode1,
+            shortCode2,
+            phoneCode
+        },
+        countryId,
+        title
+    }
+}

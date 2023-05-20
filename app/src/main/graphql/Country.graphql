@@ -1,0 +1,11 @@
+query Country{
+    fetchCountries {
+        adWordsCode,
+        __typename,
+        id,
+        emoji,
+        title,
+        shortCode2,
+        shortCode1,
+    }
+}

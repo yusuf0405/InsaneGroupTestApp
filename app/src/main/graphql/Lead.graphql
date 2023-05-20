@@ -1,0 +1,54 @@
+query Lead($params : FetchLeadInput!){
+    fetchLead(params: $params){
+        data {
+            adSource{
+                title
+            },
+            channelSource {
+                title
+            }
+            avatar {
+                path,
+                thumbnail,
+            }
+            id,
+            personId,
+            displayName,
+            status {
+                legacyColor
+                step
+                stepsCount
+                color
+            },
+            source {
+                title
+            },
+            createdAt,
+            intention {
+                title
+            }
+            updatedAt,
+            country {
+                emoji,
+                title
+            },
+            webSource {
+                title
+            }
+            city {
+                title
+            }
+            languages {
+                title
+            }
+            propertyType {
+                title
+            }
+            nationality {
+                title
+            }
+            birthDate
+            budget
+        }
+    }
+}

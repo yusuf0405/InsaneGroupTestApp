@@ -1,0 +1,10 @@
+query Cities($countryId:Int!) {
+    cities(countryId: $countryId){
+        countryId,
+        id,
+        offset,
+        offsetMs,
+        title,
+        timezone
+    }
+}

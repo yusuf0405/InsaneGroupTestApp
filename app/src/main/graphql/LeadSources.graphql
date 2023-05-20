@@ -1,0 +1,6 @@
+query LeadSources{
+    fetchLeadSources {
+        id,
+        title
+    }
+}

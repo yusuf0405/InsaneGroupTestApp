@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">InsaneGroupTestApp</string>
+
+    <string name="create_new_lead">Create new lead</string>
+    <string name="lead_information">Lead information</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="lead_type">Lead type</string>
+    <string name="type">Type</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="language">Language</string>
+    <string name="number">Number</string>
+    <string name="email">Email</string>
+    <string name="source">Source</string>
+    <string name="select_source">Select source</string>
+    <string name="select_type">Select type</string>
+    <string name="select_country">Select country</string>
+    <string name="select_city">Select city</string>
+    <string name="select_language">Select language</string>
+    <string name="created_date">Created date</string>
+    <string name="updated_date">Updated date</string>
+    <string name="lead_profile">Lead profile</string>
+    <string name="lead_status">Lead status</string>
+    <string name="options_sent">Options sent</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="mail">Mail</string>
+    <string name="follow_up">Follow-up</string>
+    <string name="meeting">Meeting</string>
+    <string name="general_info">General info</string>
+    <string name="lead_intention">Lead intention</string>
+    <string name="ad_source">Ad-Source</string>
+    <string name="unknown">Unknown</string>
+    <string name="web_source">Web-source</string>
+    <string name="city_and_region">City/Region</string>
+    <string name="channel_source">Channel-Source</string>
+    <string name="property_type">Property type</string>
+    <string name="nationality">Nationality</string>
+    <string name="birth_day">Birth day</string>
+    <string name="budget">Budget</string>
+    <string name="from_0_to_0">From 0 - to 0</string>
+    <string name="location">Location</string>
+    <string name="dubai_creek_harbour_the_lagoons">Dubai Creek Harbour (The Lagoons)</string>
+</resources>

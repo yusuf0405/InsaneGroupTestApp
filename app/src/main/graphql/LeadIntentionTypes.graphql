@@ -1,0 +1,6 @@
+query LeadIntentionTypes{
+    fetchLeadIntentionTypes {
+        id,
+        title
+    }
+}
